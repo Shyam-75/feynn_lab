@@ -1,2 +1,2 @@
 # feynn_lab
-This is only for case study of mcdonalds dataset
+This is related to various tasks perform during internship at feynn labs and all tasks are submitted in this repository.
